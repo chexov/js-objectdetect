@@ -1,8 +1,15 @@
 {
+  "name": "js-objectdetect",
+  "version": "0.0.1",
+  "description": "js-objectdetect",
+  "keywords": [
+    "js-objectdetect"
+  ],
+  "homepage": "https://github.com/kkateivanova/js-objectdetect",
+  "author": "mtschirs (https://github.com/mtschirs)",
+  "main": "js/objectdetect.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kkateivanova/js-objectdetect"
+    "url": "git@github.com:kkateivanova/js-objectdetect.git"
   },
-  "main": "js/objectdetect.js",
-  "version": "0.0.1"
 }
