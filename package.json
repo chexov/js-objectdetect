@@ -3,5 +3,6 @@
     "type": "git",
     "url": "https://github.com/kkateivanova/js-objectdetect"
   },
-  "main": "js/objectdetect.js"
+  "main": "js/objectdetect.js",
+  "version": "0.0.1"
 }
